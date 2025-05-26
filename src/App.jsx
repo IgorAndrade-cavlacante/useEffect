@@ -1,5 +1,5 @@
 import { Header } from "./components/header";
-import { Exemplo1 } from "./components/exemplo1";
+import { Exemplo1 } from "./components/Exemplo1";
 import { Exemplo2 } from "./components/Exemplo2";
 
 
